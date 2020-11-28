@@ -5,6 +5,23 @@ The central concept of this application is to detect objects that comes in refer
 
 As of now, this program contains two features for detection. One is live detection using any camera and another is detection through input video.
 
-<img align="" alt="Workflow" src="https://github.com/ankit-kaushal/On-road-Obstacle-Detection/blob/master/Screenshots/workflow.png" width="" height=""/>
+<img align="" alt="Workflow" src="https://github.com/ankit-kaushal/On-road-Obstacle-Detection/blob/main/Screenshots/workflow.png" width="750" height="420"/>
+
+## Technology stack:
+* Python (Programming Language)
+* YOLOv3 (Algorithm)
+* OpenCV (Framework)
+* COCO Dataset
+
+#### To start the application, first install required libs:
+
+<ol>
+<li>pip install opencv-python</li>
+<li>pip install numpy</li>
+<li>pip install tk</li>
+</ol>
 
 
+Also, Download weights flile from <a href="https://pjreddie.com/media/files/yolov3.weights">Download Weights</a>
+
+### To run the program Run " python3 final_code.py.py " in terminal in linux or " python final_code.py.py " in command prompt in windows. A GUI window will open up click on the required button and the application will start.
