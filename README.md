@@ -22,6 +22,6 @@ As of now, this program contains two features for detection. One is live detecti
 </ol>
 
 
-Also, Download weights flile from <a href="https://pjreddie.com/media/files/yolov3.weights">Download Weights</a>
+#### Also, Download weights flile from <a href="https://pjreddie.com/media/files/yolov3.weights">Here</a>
 
-### To run the program Run " python3 final_code.py.py " in terminal in linux or " python final_code.py.py " in command prompt in windows. A GUI window will open up click on the required button and the application will start.
+#### To run the program Run " python3 final_code.py.py " in terminal in linux or " python final_code.py.py " in command prompt in windows. A GUI window will open up click on the required button and the application will start.
